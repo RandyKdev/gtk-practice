@@ -3,6 +3,7 @@
 This repo is to practice building GUI with GTK
 
 ## Compilation
+
 To compile a gtk application, use the command below
 
 > gcc `pkg-config --cflags gtk+-3.0` -o output name_of_file.c `pkg-config --libs gtk+-3.0`
@@ -17,8 +18,11 @@ and then this
 
 the above command should print the version of gtk and everything should be fine.
 
-
 ## Learning Resources
- - https://www.youtube.com/watch?v=TPyiNl_fmyQ&list=PLEs_0O72adQBUpcPJv7dKaElGwyzVljtk
- - https://www.youtube.com/c/MichaelB-GTK/playlists
- 
+
+- https://www.youtube.com/watch?v=TPyiNl_fmyQ&list=PLEs_0O72adQBUpcPJv7dKaElGwyzVljtk
+- https://www.youtube.com/c/MichaelB-GTK/playlists
+
+Glade
+
+- https://www.youtube.com/watch?v=g-KDOH_uqPk
